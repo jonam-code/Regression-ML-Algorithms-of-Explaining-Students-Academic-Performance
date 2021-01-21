@@ -6,7 +6,7 @@ This project investigated supervised learning techniques among KNN, Trees, SVM, 
  
  dataset: student-por.csv, student-mat.csv
  
- dataset appendix: student.txt
+ dataset appendix: student.txt 
  
  data merge file: student-merge.R 
   
