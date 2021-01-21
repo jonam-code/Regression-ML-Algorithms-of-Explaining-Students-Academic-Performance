@@ -9,5 +9,5 @@ This project investigated supervised learning techniques among KNN, Trees, SVM, 
  dataset appendix: student.txt
  
  data merge file: student-merge.R
- 
+  
  related images: img folder
