@@ -1,6 +1,7 @@
 # Comparison of Regression Machine Learning Algorithms of Explaining Students' Academic Performance¶
 This project investigated supervised learning techniques among KNN, Trees, SVM, and linear regression to explain the factors associated with school performance of a group of students under secondary education in Portuga. 
 
+
 ### List of files: 
  Project report and with python code
  
@@ -9,5 +10,5 @@ This project investigated supervised learning techniques among KNN, Trees, SVM, 
  dataset appendix: student.txt 
  
  data merge file: student-merge.R 
-  
+ 
  related images: img folder
