@@ -4,7 +4,6 @@ This project investigated supervised learning techniques among KNN, Trees, SVM, 
 
 ### List of files: 
  Project report and with python code
-
  
  dataset: student-por.csv, student-mat.csv
  
